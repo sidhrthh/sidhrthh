@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently learning [https://github.com/sidhrthh/0-100-cohort-2](https://github.com/sidhrthh/0-100-cohort-2)
 
+- 🌱 I’m currently learning **MERN Stack**
+
 - 👯 I’m looking to collaborate on **Any projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sidhrthh?tab=repositories](https://github.com/sidhrthh?tab=repositories)
