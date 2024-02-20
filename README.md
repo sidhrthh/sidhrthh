@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/iamsidharthhh" target="blank"><img src="https://img.shields.io/twitter/follow/iamsidharthhh?logo=twitter&style=for-the-badge" alt="iamsidharthhh" /></a> </p>
 
-- 🔭 I’m currently learning [https://github.com/sidhrthh/0-100-cohort-2](https://github.com/sidhrthh/0-100-cohort-2)
-
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **Any projects.**
